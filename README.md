@@ -16,5 +16,5 @@
     - [Сертификат](https://www.sololearn.com/certificates/CT-LZLWSSZN)
 # PHP. Задача 6
 * Ссылка на репозиторий
-    - [Список задач](https://www.sololearn.com/certificates/CT-LZLWSSZN)
+    - [Список задач](https://github.com/kiryusha404/Task_list)
     
