@@ -17,4 +17,8 @@
 # PHP. Задача 6
 * Ссылка на репозиторий
     - [Список задач](https://github.com/kiryusha404/Task_list)
+# PHP. ООП. Задача 7
+* Ссылка на репозиторий
+    - [Классы php](https://github.com/kiryusha404/class-php)
     
+
