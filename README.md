@@ -20,5 +20,6 @@
 # PHP. ООП. Задача 7
 * Ссылка на репозиторий
     - [Классы php](https://github.com/kiryusha404/class-php)
-    
-
+# PHP. MVC. Задача 8
+* Ссылка на репозиторий
+    - [MVC](https://github.com/kiryusha404/mvc)
